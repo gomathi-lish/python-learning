@@ -1,3 +1,3 @@
-for i in "apple":
-    print(i)
-    print("This is a fruit.")
+for i in range(1,5):
+  for j in range(1,3):
+    print(j,"apple")cd
